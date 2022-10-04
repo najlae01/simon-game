@@ -1,2 +1,4 @@
 # simon-game
-Classic Simon Game 
+https://najlae01.github.io/simon-game/
+
+Have Fun :)
